@@ -1,7 +1,7 @@
 # Digital Solutions Project Documentation
 
 ## Data Used
-| Data Type | Description |
+| Data Type | Description/Details |
 | --------- | ----------- |
 | eCO2 (ppm) | equivalent CO2, an indication of the concentration of CO2 that would cause the same level of radiative forcing as a given type and concentration of greenhouse gas. |
 | eVTOC (ppb) |  equivalent total volatile organic compounds and is a measurement of the total amount of any emitted gasses coming from toxins and chemicals. |
