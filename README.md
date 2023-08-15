@@ -13,6 +13,5 @@
 ## How the data is accessed
 The thingspeak API is queried for one month of data at a time. All of the start and end dates are received from a serverless function and stored in a Power BI table. Power BI uses this table to make multiple queries to retrieve all of the data. This is the URL to the serverless function that fetches the query parameters.
 
-**(To view data returned by function: Right click this link, then open in a new tab)**
 <br>
 [https://isnt-collin-varisco-cgi-awesome.netlify.app/.netlify/functions/serverless](https://isnt-collin-varisco-cgi-awesome.netlify.app/.netlify/functions/serverless)
